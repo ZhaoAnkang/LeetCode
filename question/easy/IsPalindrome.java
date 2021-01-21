@@ -1,8 +1,7 @@
 package question.easy;
 
 /**
- * 整数反转
- *
+ * 回文数
  * @author ZhaoAnkang
  */
 public class IsPalindrome {
